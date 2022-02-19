@@ -22,5 +22,4 @@ class Gorila extends Mamifero {
         System.out.println("Gorila trepó al árbol");
         setNivelDeEnergia(getNivelDeEnergia() - 10);
     }
-
 }
